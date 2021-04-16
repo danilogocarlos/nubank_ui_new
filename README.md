@@ -1,16 +1,18 @@
-# nubank_new
+# :house: NUBANK UI New
 
-A new Flutter project.
+Este projeto é um estudo de criação de interfaces com Flutter. Para tanto, foi utilizado como inspiração a interface do app Nubank.
 
-## Getting Started
+## :hammer_and_wrench: Tecnologias
 
-This project is a starting point for a Flutter application.
+- Dart
+- Flutter SDK
 
-A few resources to get you started if this is your first Flutter project:
+## :books: Assuntos abordados
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- Textos ricos
+- Gestão de estados efêmeros
+- Componentização
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## :clapper: Demo
+
+![Demostração](https://raw.githubusercontent.com/danilogocarlos/nubank_ui_old/master/assets/gifs/video.gif)
