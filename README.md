@@ -15,4 +15,4 @@ Este projeto é um estudo de criação de interfaces com Flutter. Para tanto, fo
 
 ## :clapper: Demo
 
-![Demostração](https://raw.githubusercontent.com/danilogocarlos/nubank_ui_old/master/assets/gifs/video.gif)
+![Demostração](https://raw.githubusercontent.com/danilogocarlos/nubank_ui_new/main/lib/assets/video_example/video_nubank_new.gif)
